@@ -1,0 +1,15 @@
+body{background:#f6f8fb;color:#172033;font-family:Inter,Segoe UI,Arial,sans-serif}
+.navbar-brand{letter-spacing:-.5px}.navbar-brand span{color:#16a085}
+.hero{background:linear-gradient(135deg,#eef7ff,#effcf8);border:1px solid #dcecf0;border-radius:24px}
+.eyebrow{font-size:12px;font-weight:800;letter-spacing:2px;color:#168a75}
+h1{font-weight:800;font-size:clamp(38px,6vw,64px);line-height:1.02;letter-spacing:-2px}
+h1 span{color:#168a75}.lead{color:#5f6b7a;max-width:680px}
+.btn-primary{background:#168a75;border-color:#168a75}.btn-primary:hover{background:#11725f;border-color:#11725f}
+.network-icon{font-size:38px;line-height:1.25;color:#168a75;font-weight:bold}
+.card{border-radius:18px}.stat{background:#fff;border:1px solid #e8edf2;border-radius:16px;padding:18px;min-height:100px;box-shadow:0 2px 10px #1322380a}
+.stat small{display:block;color:#7a8795;font-weight:700;font-size:10px;letter-spacing:1px}.stat b{display:block;font-size:27px;margin-top:7px}.stat span{font-size:12px;color:#7a8795}
+#cy{height:520px;background:#fbfcfe;border-radius:0 0 16px 16px;border-top:1px solid #edf0f4}
+.card-header{padding:15px 18px;border-radius:18px 18px 0 0!important}
+.steps{display:flex;gap:10px;flex-wrap:wrap}.steps div{display:flex;align-items:center;gap:10px;background:#f5f8fa;padding:10px 14px;border-radius:12px}.steps b{color:#168a75}
+table thead th{font-size:12px;text-transform:uppercase;color:#7a8795}
+@media(max-width:768px){#cy{height:400px}.hero{text-align:center}.network-icon{margin-top:20px}}
