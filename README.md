@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Network Community Detection
 
 FML mini project website for detecting communities in social networks using the Louvain community detection algorithm.
@@ -37,3 +38,6 @@ Each row represents a connection between two users/nodes.
 
 ## Project flow
 Upload CSV -> Build Graph -> Louvain Detection -> Visualize Communities -> Download Results
+=======
+# social-network-community-detection
+>>>>>>> f8a4383e2e9ea026d60c12bd51150432f906f5e1
